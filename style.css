@@ -1,0 +1,19 @@
+body
+{
+	background-image: url("windows-11-simple-microsoft-hd-wallpaper-preview.jpg");
+}
+
+	.login_div1
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#The_First_Player , #The_second_Player
+{
+	display: inline-block;
+	margin-left: 20px;
+}
